@@ -9,7 +9,7 @@ A. The top books of each year are extracted on the basis of two sources of GoodR
 https://en.wikipedia.org/wiki/Lists_of_The_New_York_Times_fiction_best_sellers
 
 B. A test is performed to understand the similarities of books in order to categorize them into genres.
-   Although this is not applied to the actual dataset, it helps in applying the final touches to assigning the correct genres
+   Although this is not applied to the actual dataset, it helps in adding the final touches to assigning the correct genres
    to the books, which was to be done manually (data validation).
 
 '''
